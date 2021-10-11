@@ -1,10 +1,10 @@
 # VAF - Public Website Version
 
-This is the **main** branch and public website version of **VAF**.  Object data in this project is held in `./data/items.toml` and in this version each of the `[[items]]` keys DOES have a `url` key/value pair.  This is largely what makes this **public-facing** version different than the corresponding **kiosk** version which can now be found in https://github.com/Digital-Grinnell/vaf-kiosk.  The **kiosk** version is built to run on the iPad kiosk in the north end of the HSSC atrium on campus.
+This is the **main** branch and public website version of **VAF**.  Object data in this project is held in `./data/items.toml` and in this version each of the `[[items]]` keys DOES have a `url` key/value pair.  This is largely what makes this **public-facing** version different than the corresponding **kiosk** version which can now be found in https://github.com/vaf-grinnell/vaf-kiosk.  The **kiosk** version is built to run on the iPad kiosk in the north end of the HSSC atrium on campus.
 
 ## Deployed in GitHub Pages
 
-Pushing changes to this site should automatically deploy it at https://static.grinnell.edu/vaf/.
+Pushing changes to this site should automatically deploy it at https://vaf.grinnell.edu/.
 
 
 ## Obsolete - Instructions Beyond This Point Are Out-of-Date!
