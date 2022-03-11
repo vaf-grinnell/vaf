@@ -8,9 +8,9 @@ languageCode = "en-us"
 title = "Visualizing Abolition and Freedom"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
-# googleAnalytics = "UA-4766052-15"
-# googleAnalytics = "G-BDW4VK52TQ" 
-googleAnalytics = "G-82FEPWG2LH"
+googleAnalytics = "UA-4766052-15"
+# googleAnalytics = "G-BDW4VK52TQ"
+# googleAnalytics = "G-82FEPWG2LH"
 
 contentdir = "content"
 datadir = "data"
