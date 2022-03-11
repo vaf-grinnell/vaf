@@ -7,8 +7,8 @@ baseurl = "https://vaf.grinnell.edu/"
 languageCode = "en-us"
 title = "Visualizing Abolition and Freedom"
 theme = "hugrid"
+
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "G-H0FYSM8FL2"
 # googleAnalytics = "G-82FEPWG2LH"
 # googleAnalytics = "G-BDW4VK52TQ"
 # googleAnalytics = "UA-4766052-15"
@@ -20,6 +20,8 @@ layoutdir = "layouts"
 publishdir = "public"
 
 [params]
+    # Enter your tracking GA4 code to enable Google Analytics per https://gist.github.com/zjeaton/42246742cdaf2fb46400d04c2eba9a8a
+    googleAnalyticsID = "G-H0FYSM8FL2"
     # Meta
     title = "Visualizing Abolition and Freedom"
     # subtitle = "Edit config.toml|params|subtitle to change this."
