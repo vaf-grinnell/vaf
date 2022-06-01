@@ -20,8 +20,9 @@ layoutdir = "layouts"
 publishdir = "public"
 
 [params]
-    # Enter your tracking GA4 code to enable Google Analytics per https://gist.github.com/zjeaton/42246742cdaf2fb46400d04c2eba9a8a
-    googleAnalyticsID = "G-H0FYSM8FL2"
+    # Enter your tracking GA4 code to enable Google Analytics per https://gist.github.com/zjeaton/42246742cdaf2fb46400d04c2eba9a8a.  Active entry below was suggested in the GA VAF-Kiosk dashboard at https://analytics.google.com/analytics/web/?authuser=1#/p284309057/reports/intelligenthome?params=_u..nav%3Dmaui.  Implemented on 1-Jun-2022.
+    googleAnalyticsID = "G-BDW4VK52TQ"
+    # googleAnalyticsID = "G-H0FYSM8FL2"  <-- this code not working on 1-June-2022
     # Meta
     title = "Visualizing Abolition and Freedom"
     # subtitle = "Edit config.toml|params|subtitle to change this."
